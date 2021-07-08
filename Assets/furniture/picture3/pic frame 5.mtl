@@ -1,0 +1,8 @@
+# Exported from 3D Builder
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd DissectedHrud.jpg
+
+newmtl lambert8SG
+Kd 0.180000 0.040000 0.010000
