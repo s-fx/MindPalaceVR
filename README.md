@@ -1,8 +1,8 @@
 # MindPalaceVR
-
-App for drawing and do some work
-still in progress
-shapes mode is currently droping the fps (need fix) and is not finished
+***
+App for drawing and do some MindMaps <br>
+still in progress <br>
+shapes mode is currently droping the fps (need fix) and is not finished <br>
 
 
 what to come:
