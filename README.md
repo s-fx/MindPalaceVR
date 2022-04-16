@@ -15,6 +15,6 @@ what to come:
 - ...
 ![Overview](/img/overview.png?raw=true "Overview")
 ![Draw](/img/draw.png?raw=true "Draw")
-![Draw2](/img/draw2.png?raw=true "Draw2)
+![Draw2](/img/draw2.png?raw=true "Draw2")
 ![Menu](/img/menu.png?raw=true "Menu")
 ![Shape](/img/shape.png?raw=true "Shape")
