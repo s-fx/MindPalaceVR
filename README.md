@@ -1,6 +1,6 @@
 # MindPalaceVR
 ***
-App for drawing and do some MindMaps <br>
+App for drawing and do some MindMaps for the Oculus Quest<br>
 still in progress <br>
 shapes mode is currently droping the fps (need fix) and is not finished <br>
 
